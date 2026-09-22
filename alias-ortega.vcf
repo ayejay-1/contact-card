@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gonzales;Andres;;;
+FN:Andres Gonzales
+ORG:Jolt Innovation
+EMAIL;TYPE=INTERNET,WORK:andres@joltinnovation.com
+TEL;TYPE=WORK,VOICE:+19562458790
+URL:https://joltinnovation.com
+PHOTO;VALUE=URI;TYPE=JPEG:https://ayejay-1.github.io/contact-card/andres-go
+ nzales.jpg
+END:VCARD
